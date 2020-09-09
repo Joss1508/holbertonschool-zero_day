@@ -1,0 +1,1 @@
+This project is about Git and how to use and manage source code with Github.
