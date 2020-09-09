@@ -1,0 +1,1 @@
+This project is about Emacs essentials and how to use it properly.
